@@ -1,0 +1,1 @@
+IniExam is a Computer Based Test (CBT) application developed using Java language and integrated with a MySQL database. In this application, teachers are facilitated with a menu to modify questions, and student grades are automatically stored in the database. Additionally, teachers can directly generate prints in a provided PDF format.
