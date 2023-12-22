@@ -1,6 +1,5 @@
 IniExam is a Computer Based Test (CBT) application developed using Java language and integrated with a MySQL database. In this application, teachers are facilitated with a menu to modify questions, and student grades are automatically stored in the database. Additionally, teachers can directly generate prints in a provided PDF format.
 <img width="344" alt="Screenshot 2023-05-29 154608" src="https://github.com/raoulhakim/iniExam/assets/95678811/70404890-1806-4c2d-a4db-2c0b6678dbe9">
-<img width="344" alt="Screenshot 2023-05-29 154608" src="https://github.com/raoulhakim/iniExam/assets/95678811/70404890-1806-4c2d-a4db-2c0b6678dbe9">
 <img width="960" alt="Screenshot 2023-05-29 154628" src="https://github.com/raoulhakim/iniExam/assets/95678811/8c346440-e5b7-44e2-b22e-3e46645ead83">
 <img width="704" alt="Screenshot 2023-05-29 154701" src="https://github.com/raoulhakim/iniExam/assets/95678811/51ccccb0-12fd-4c99-9e6e-3edb3486955f">
 <img width="703" alt="Screenshot 2023-05-29 154718" src="https://github.com/raoulhakim/iniExam/assets/95678811/52a02188-dc99-4a21-bfb2-a80dd6a0af79">
